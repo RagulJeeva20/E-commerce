@@ -1,4 +1,4 @@
-import React,{ useState} from "react";
+import React from "react";
 function Product(props)
 {
     const { item,product,onAdd,onRemove }=props;
