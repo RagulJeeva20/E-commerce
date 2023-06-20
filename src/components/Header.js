@@ -6,7 +6,7 @@ export default function Header(props){
     <div className="header">
         
         
-        <h2 className="heading">Fan Wall</h2>
+        <h2 className="heading">Fan Walls</h2>
         
         <div>
             <Link to="/">Home</Link>
